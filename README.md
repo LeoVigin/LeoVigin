@@ -27,6 +27,7 @@
         <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="25" alt="wordpress logo"  />
         <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="25" />
         <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
+          <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo"  />
       </p>
     </td>
     <!-- Right Column -->
@@ -44,3 +45,12 @@
     </td>
   </tr>
 </table>
+
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=8t894p1fohqnvayz6761nrjte&theme=transparent&count=3&width=390&radius=0&unique=1&duration=1&footer=wave)
+
+
+<!-- <picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoVigin/LeoVigin/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoVigin/LeoVigin/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeoVigin/LeoVigin/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture> -->
