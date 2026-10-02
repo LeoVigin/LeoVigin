@@ -48,8 +48,8 @@
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=8t894p1fohqnvayz6761nrjte&theme=transparent&count=3&unique=1&duration=1)
 
-<!-- <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoVigin/LeoVigin/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoVigin/LeoVigin/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeoVigin/LeoVigin/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture> -->
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoVigin/LeoVigin/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoVigin/LeoVigin/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeoVigin/LeoVigin/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
