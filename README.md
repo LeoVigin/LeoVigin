@@ -46,8 +46,6 @@
   </tr>
 </table>
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=8t894p1fohqnvayz6761nrjte&theme=transparent&count=3&unique=1&duration=1)
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoVigin/LeoVigin/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoVigin/LeoVigin/pacman-output/pacman-contribution-graph.svg?game=pacman">
